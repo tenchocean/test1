@@ -1,5 +1,4 @@
-# test1
-% blah blah 
+# test1 
 % edit version 1
 
 % matlab exp. 1
